@@ -1,6 +1,6 @@
 👋 Hi,
 
-I’m @akka81 the Android Team Leader in [Flowe](https://flowe.com) a new fintech company
+I’m @akka81 the Android Team Leader in [Flowe](https://flowe.com) a new fintech company.
 </br>👀 Mobile and Backend development lover with a great passion for Android, Flutter and Software Architectures.
 </br> 🌱 I’m currently learning <b> Jetpack Compose and Flutter </b>
 
