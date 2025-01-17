@@ -1,8 +1,8 @@
 👋 Hi,
 
-I’m Marco the Android Team Leader in [Flowe](https://flowe.com) a new fintech company.
-</br>👀 Mobile and Backend development lover with a great passion for Android and Software Architectures.
-</br> 🌱 I’m currently focusing on <b> backend and cloud architectures </b>
+I’m Marco Senior Solution Architect @ [Reti](https://www.reti.it) an innovative consulting company.
+</br>👀 Fullstack development lover with a great passion for Microservices Software Architectures and AI Solutions.
+</br> 🌱 I’m currently focusing on <b> backend cloud architectures and Azure AI Services </b>
 
  :wink: Be SOLID against code replication because it is the root of all evil :japanese_ogre:
 <!---
